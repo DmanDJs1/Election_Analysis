@@ -58,4 +58,4 @@ The Challenge overview for the Election results showed that:
 
 To the general election commision, we are aware of the challenges faced when dealing with elections we want you to understand that the code
 can be modified to your specifications and needs. In this report report we showed the total count for each county and also the total votes for each candidate.
-With more data the code can be modified to show for example the age of the voter and which age group voted the most. We can also show what percentage of the vote came in through mail-in-ballots.
+With more data the code can be modified to show for example the age of the voter and which age group voted the most. We can also show what percentage of the vote came in through mail-in-ballots. This will aid in targeting certain democraphics.
